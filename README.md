@@ -1,4 +1,4 @@
-# Bitrise Flutter Sample.
+# Bitrise Flutter Sample
 
 [![Bitrise status](https://app.bitrise.io/app/e6acd6634ef188c0/status.svg?token=ySsYqtCVgbkhizkjhlZnbQ&branch=main)](https://app.bitrise.io/app/aa6d28fe1fba58a8) 
 
